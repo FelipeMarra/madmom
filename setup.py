@@ -70,7 +70,7 @@ classifiers = [
 # requirements
 requirements = [
     'numpy>=1.13.4',
-    'scipy>=1.13',
+    'scipy>=1.0.1',
     'mido>=1.2.6',
 ]
 
